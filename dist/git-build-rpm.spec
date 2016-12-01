@@ -29,7 +29,7 @@ BuildArch:	    noarch
 
 %description
 Given a spec file, this program archives the Git repository and creates an RPM
-for it.
+for it. Ooo...
  
 %prep
 %setup -q -n %{name}-%{version}
